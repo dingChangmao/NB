@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1b7e98d-a289-44ae-80a5-4cf0ac140ad6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NB_垃圾邮件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NB_新浪新闻分类_中文分词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/ClassList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000008/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000010/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000013/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000014/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000016/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000020/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000022/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000023/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SogouC/Sample/C000024/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/ham/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email/spam/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stopwords_cn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朴素贝叶斯1.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/NB$123.coverage" NAME="123 Coverage Results" MODIFIED="1556190360223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NB$1.coverage" NAME="朴素贝叶斯1 Coverage Results" MODIFIED="1556241877801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NB$NB_.coverage" NAME="NB_垃圾邮件 Coverage Results" MODIFIED="1556245315305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NB$NB__.coverage" NAME="NB_新浪新闻分类_中文分词 Coverage Results" MODIFIED="1556265040499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/朴素贝叶斯1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2552">
+              <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/123.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email/ham/7.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email/ham/11.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NB_垃圾邮件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1885">
+              <caret line="89" column="53" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#405#641#0" />
+                <element signature="e#893#1447#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NB_新浪新闻分类_中文分词.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="199" column="16" lean-forward="true" selection-start-line="183" selection-start-column="3" selection-end-line="199" selection-end-column="16" />
+              <folding>
+                <element signature="e#24#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stopwords_cn.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SogouC/Sample/C000013/10.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SogouC/ClassList.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email/ham/2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/123.py" />
+        <option value="$PROJECT_DIR$/朴素贝叶斯1.py" />
+        <option value="$PROJECT_DIR$/NB_垃圾邮件.py" />
+        <option value="$PROJECT_DIR$/NB_新浪新闻分类_中文分词.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.NB_新浪新闻分类_中文分词">
+    <configuration name="朴素贝叶斯1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/朴素贝叶斯1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NB_垃圾邮件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NB_垃圾邮件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NB_新浪新闻分类_中文分词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NB_新浪新闻分类_中文分词.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NB_新浪新闻分类_中文分词" />
+        <item itemvalue="Python.NB_垃圾邮件" />
+        <item itemvalue="Python.朴素贝叶斯1" />
+        <item itemvalue="Python.123" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1b7e98d-a289-44ae-80a5-4cf0ac140ad6" name="Default Changelist" comment="" />
+      <created>1556183121146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556183121146</updated>
+      <workItem from="1556183122368" duration="8186000" />
+      <workItem from="1556241871123" duration="9494000" />
+      <workItem from="1556258538585" duration="2199000" />
+      <workItem from="1556262227208" duration="619000" />
+      <workItem from="1556263287957" duration="1505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22003000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2642344" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5036573" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3291536" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32946378" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/123.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SogouC/Sample/C000008/10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SogouC/Sample/C000016/10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SogouC/Sample/C000022/15.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SogouC/Sample/C000023/13.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/ham/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/朴素贝叶斯1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2552">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/ham/7.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/ham/11.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NB_垃圾邮件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1885">
+          <caret line="89" column="53" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#405#641#0" />
+            <element signature="e#893#1447#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stopwords_cn.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SogouC/Sample/C000013/10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SogouC/ClassList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/ham/2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NB_新浪新闻分类_中文分词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="199" column="16" lean-forward="true" selection-start-line="183" selection-start-column="3" selection-end-line="199" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
